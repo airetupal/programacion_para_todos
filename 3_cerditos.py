@@ -12,3 +12,6 @@ elif velocidad_viento < 33.4:
     print("Es madera")
 else:
     print("Es ladrillo")
+    
+    
+    #prueba
